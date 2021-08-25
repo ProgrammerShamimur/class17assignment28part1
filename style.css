@@ -6,7 +6,7 @@
     margin: 0;
 }
 .fix-width{
-    max-width: 1320px;
+    max-width: 1420px;
     margin: auto;
 }
 .clearfix::after{
